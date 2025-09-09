@@ -1,4 +1,4 @@
-* Macao - Reinforcement Learning for Humans!
+# Macao - Reinforcement Learning for Humans!
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop (JVM), Server.
 
